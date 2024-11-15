@@ -3,7 +3,7 @@ const dotenv = require("dotenv");
 dotenv.config();
 const cors = require("cors");
 const connectDB = require("./db/db");
-const port = process.env.PORT;
+const port = process.env.BACKEND_PORT;
 
 const app = express();
 

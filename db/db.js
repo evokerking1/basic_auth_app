@@ -13,7 +13,7 @@ const connectDB = async () => {
         }
 
         console.log("Connected to MySQL database");
-        connection.release();
+        //connection.release();
     });
 };
 
