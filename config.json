@@ -1,0 +1,11 @@
+{
+    "DB" {
+        "HOST": "",
+        "Port": "",
+        "USER": "",
+        "PASSWORD": "",
+        "NAME": ""
+    },
+    "SERVER PORT": "8081",
+    "JWT TOKEN": "*********"
+}
